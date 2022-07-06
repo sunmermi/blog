@@ -8,7 +8,7 @@
 #### 바인딩 방법 &#x20;
 
 * 기본적으로 [객체](https://kr.vuejs.org/v2/guide/class-and-style.html#%EA%B0%9D%EC%B2%B4-%EA%B5%AC%EB%AC%B8), [배열](https://kr.vuejs.org/v2/guide/class-and-style.html#%EB%B0%B0%EC%97%B4-%EA%B5%AC%EB%AC%B8) 구문&#x20;
-* `data(), computed()` 를 활용 할 수 있 &#x20;
+* `data(), computed()` 를 활용 할 수 있다&#x20;
 * 컴포넌트에 사용자가 또 다시 `class`를 적용하 컴포넌트에 정의된 클래스와 함께 추가됨. [link](https://kr.vuejs.org/v2/guide/class-and-style.html#%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)&#x20;
 
 #### 궁금했던 점&#x20;
@@ -17,7 +17,7 @@
 
 ```
 // 객체 방식 : 
-ass="{'클래스명': '조건'}"
+:class="{'클래스명': '조건'}"
 :class="{'클래스명'조건', '클래스명' :'조건'}"
 :class="{isAction: isAction}"
 
