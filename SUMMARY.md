@@ -5,8 +5,8 @@
 ## Studying
 
 * [React](studying/react/README.md)
-  * [리액트?](studying/react/undefined.md)
-  * [프레임워크와 라이브러리의 차이](studying/react/undefined-1.md)
+  * [React.js?](studying/react/react.js.md)
+  * [framework and a library](studying/react/framework-and-a-library.md)
 
 ***
 
