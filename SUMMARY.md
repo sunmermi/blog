@@ -7,6 +7,7 @@
 * [React](section/react/README.md)
   * [React.js?](section/react/react.js.md)
   * [framework and library](section/react/framework-and-library.md)
+  * [Dynamic Tag Name Props in React](section/react/dynamic-tag-name-props-in-react.md)
 
 ***
 
