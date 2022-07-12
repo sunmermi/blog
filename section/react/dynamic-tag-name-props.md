@@ -1,14 +1,14 @@
 ---
-description: Dynamic Tag Name Props in React
+description: 리액트에서 props로 태그 변경하는 방법
 ---
 
-# Dynamic Tag Name Props in React
+# Dynamic Tag Name Props
 
 #### 상황
 
 [Vue > Dynamic Components](https://app.gitbook.com/s/DPKt0tyjAJEzGVm6AJue/\~/changes/9ZqzoNhp827M1R8hnw4Q/vue/dynamic-components-is-attribute) 의 연장선으로 작성하게 되었다.
 
-위에 내요은 뷰에서 한개의 컴포넌트로 조건에 따라 렌더링 되는 태그를 변경하고 싶었다.
+위에 내용은 뷰에서 한개의 컴포넌트로 조건에 따라 렌더링 되는 태그를 변경하고 싶었다.
 
 이전에 리액트에서 작업할 때는 `styled-components` 사용을 하고 있었기 때문에 `styled-components` 제공하는 `as` 프롭을 사용해서 쉽게 렌더링 태그를 변경할 수 있었다.
 
