@@ -15,6 +15,8 @@
   * [v-bind](vue/v-bind.md)
   * [::v-deep 딥셀렉터](vue/v-deep.md)
   * [Dynamic Components (동적 컴포넌트), :is attribute](vue/dynamic-components-is-attribute.md)
+* [JavaScript](section/javascript/README.md)
+  * [try...catch...finally and throw](section/javascript/try...catch...finally-and-throw.md)
 
 ***
 
