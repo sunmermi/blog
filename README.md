@@ -1,7 +1,7 @@
 ---
 description: 안녕,
 cover: .gitbook/assets/562680_359130210822976_795532937_n.jpeg
-coverY: 0
+coverY: -73.09644670050761
 ---
 
 # Welcome!
