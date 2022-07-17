@@ -1,10 +1,10 @@
 ---
-description: 버튼 컴포넌트에서 아이콘 이미지 작업시 `@/assets/images` 동적 바인딩 관련 이슈
+description: 버튼 컴포넌트에서 `src/assets/images/...` 디렉토리 내부 이미지 소스 적용시 동적 바인딩 관련 이슈
 ---
 
-# assets images url path dynamic binding
+# vue assets images path dynamic binding - require()
 
-#### 상황
+상황
 
 현재 뷰 환경에서 버튼이 중구난방으로 작업되어 있고 버튼 컴포넌트로 분리 되어있지 않아서 만들기로 했다.\
 그러다가 텍스트 앞에 아이콘이 있는 디자인이 있는데 넣으려고 보니 아이콘 이미지 소스도 정리도 안되어있고, 이미지 파일명도 너무나 중구 난방.. 흠.. 이미지의 확장자 `.png`라는것만 공통되어 있었다.
