@@ -12,15 +12,15 @@
 
 #### 참고
 
-`skeleton ui`, `스켈레톤 ui` 키워드로 구글링 하면 많이 나오니 참고하면 될 것 같다.
+`skeleton ui`, `스켈레톤 ui` 키워드로 구글링 하면 많이 나오니 참고하면 될 것 같다. &#x20;
 
-그리고 UI 라이브러리 semantic-ui에서는 placeholder로 표현하고 있고 직접 제작할 때 참고해 봐도 좋을 것 같다.
+그리고 직접 제작할 때 UI 라이브러리 참고해 봐도 좋을 것 같다.
 
-* [semantic-ui](https://semantic-ui.com/elements/placeholder.html)
-* [semantic-ui - 리액트](https://react.semantic-ui.com/elements/placeholder/)
-* Vue는 placeholder가 없는 것 같다.
+* [semantic-ui - placeholder](https://semantic-ui.com/elements/placeholder.html)
+* [semantic-ui - 리액트 placeholder](https://react.semantic-ui.com/elements/placeholder/)
+* [material-ui - 리액트 skeleton](https://mui.com/material-ui/react-skeleton/)
 
-그리고 [Toast UI - 더 나은 UX를 위한 React에서 스켈레톤 컴포넌트 만들기](https://ui.toast.com/weekly-pick/ko\_20201110) 이것도 참고하면 이해를 도울 것 같다.
+그리고 [Toast UI - 더 나은 UX를 위한 React에서 스켈레톤 컴포넌트 만들기](https://ui.toast.com/weekly-pick/ko\_20201110) 이것도 참고하면  좋을 것 같다. &#x20;
 
 
 
