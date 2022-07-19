@@ -7,7 +7,6 @@
 * [React](section/react/README.md)
   * [React Simple Summary](section/react/react-simple-summary.md)
   * [React.js?](section/react/react.js.md)
-  * [framework and library](section/react/framework-and-library.md)
   * [Component (Class, Function)](section/react/component-class-function.md)
   * [Dynamic Tag Name Props](section/react/dynamic-tag-name-props.md)
   * [react assets images path dynamic binding - require()](section/react/react-assets-images-path-dynamic-binding-require.md)

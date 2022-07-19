@@ -4,9 +4,20 @@ description: 간단한 개념 및 관련 공식 문서 또는 참고 링크
 
 # React Simple Summary
 
+#### React
+
+* [React 특징](https://app.gitbook.com/s/DPKt0tyjAJEzGVm6AJue/\~/changes/IBvQCUL2PvtBud29u37Q/section/react/react.js)
+
+#### framework and library
+
+* 프레임워크는 이미 완성품으로 정해진 롤대로 사용 해야 합니다. 예로 앵귤러
+* 라이브러리는 내 입맛에 맞게 기능을 골라서 사용 할 수 있습니다. 예로 리액트
+
 #### props
 
-* 부모로부터 전달된 프로퍼티이고 읽기 전용이다.
+* 부모로부터 전달된 프로퍼티이고 읽기 전용
+* 상황에 따라 주어진 데이터를 받고 그 데이터에 맞게 UI를 보여준다.
+* 재사용 높인다.
 * [React 공식 - props](https://ko.reactjs.org/docs/components-and-props.html#props-are-read-only)
 
 #### state
