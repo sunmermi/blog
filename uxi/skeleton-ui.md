@@ -16,6 +16,8 @@ UX 요소 모델 단계 중 스켈레톤이라는 명칭이 있다.\
 
 `skeleton ui`, `스켈레톤 ui` 키워드로 구글링 하면 많이 나오니 참고하면 될 것 같다.
 
+* [블로그 - PureCSS로 Skeleton UI 제작하기](https://velog.io/@eunoia/PureCSS%EB%A1%9C-Skeleton-%EC%A0%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
 그리고 직접 제작할 때 UI 라이브러리 참고해 봐도 좋을 것 같다.
 
 * [semantic-ui - placeholder](https://semantic-ui.com/elements/placeholder.html)
