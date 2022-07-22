@@ -10,9 +10,11 @@ description: 리액트에서 props로 태그 변경하는 방법
 
 위에 내용은 뷰에서 한개의 컴포넌트로 조건에 따라 렌더링 되는 태그를 변경하고 싶었다.
 
-이전에 리액트에서 작업할 때는 `styled-components` 사용을 하고 있었기 때문에 `styled-components` 제공하는 `as` 프롭을 사용해서 쉽게 렌더링 태그를 변경할 수 있었다.
+이전에 리액트에서 작업할 때는 `styled-components` 사용을 하고 있었기 때문에  `styled-components` 제공하는 `as` 프롭을 사용해서 쉽게 렌더링 태그를 변경할 수 있었다.
 
-하지만 `styled-components` 않는다면? 어떻게 해야하나? 궁금증이 생겼다.
+하지만 `styled-components` 사용하지 않는다면? 어떻게 해야하나? 궁금증이 생겼다.
+
+
 
 #### `styled-components` 사용시
 
@@ -33,13 +35,13 @@ description: 리액트에서 props로 태그 변경하는 방법
 
 ####
 
-#### React 사용으로만
+#### React 사용으로만 구현하기 &#x20;
 
 구글링을 했을땐 제일 많이 나오는 방법은 [이 방법](https://blog.hackages.io/conditionally-wrap-an-element-in-react-a8b9a47fab2)이였고
 
 내가 원하는 방법은 [Dynamic Tag Name Props in React (with TypeScript)](https://www.aleksandrhovhannisyan.com/blog/dynamic-tag-name-props-in-react/) 이거다.
 
-위 방법을 참고해서 만든 [코드](https://codesandbox.io/s/react-dynamic-tag-render-hjtvb9)
+위 방법을 참고해서 직접 테스트 해본 [코드샌드박스](https://codesandbox.io/s/react-dynamic-tag-render-hjtvb9) &#x20;
 
 **1. DynamicTag 컴포넌트 만들기**
 
@@ -118,7 +120,7 @@ export const Button = ({
 
 예를 들면 `DynamicTag` 컴포넌트에서 `...props` 를 전달하였음에도 `href` 속성값을 넣으면 `ts` 오류가 떴다. 다른 속성값도 마찬가지로 오류가 뜸.
 
-구글링을 해보고 이리저리 껴 맞춰보고 해서 오류는 안뜨게 했는데 논리적으로 왜 저렇게 해야하는 건지 사실 방법은 잘 모른다. ㅠㅠ
+구글링을 해보고 이리저리 껴 맞춰보고 해서 오류는 안뜨게 했는데 논리적으로 왜 저렇게 해야하는 건지 사실 방법은 잘 모른다. :sob:
 
 `React.AllHTMLAttributes` 흠..
 
