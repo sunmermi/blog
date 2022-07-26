@@ -10,6 +10,7 @@
   * [Component (Class, Function)](section/react/component-class-function.md)
   * [Dynamic Tag Name Props](section/react/dynamic-tag-name-props.md)
   * [react assets images path dynamic binding - require()](section/react/react-assets-images-path-dynamic-binding-require.md)
+  * [state, setState](section/react/state-setstate.md)
 * [Vue](vue/README.md)
   * [Vue Simple Summary](vue/vue-simple-summary.md)
   * [v-bind](vue/v-bind.md)
@@ -18,6 +19,8 @@
     * [후속편(after that...)](section/vue/dynamic-components-is-attribute/after-that....md)
   * [vue assets images path dynamic binding - require()](section/vue/vue-assets-images-path-dynamic-binding-require.md)
 * [JavaScript](section/javascript/README.md)
+  * [Data Type Variable](section/javascript/data-type-variable/README.md)
+    * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
   * [try...catch...finally and throw](section/javascript/try...catch...finally-and-throw.md)
 
 ***
