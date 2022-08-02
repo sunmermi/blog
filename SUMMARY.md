@@ -20,6 +20,7 @@
     * [후속편(after that...)](section/vue/dynamic-components-is-attribute/after-that....md)
   * [vue assets images path dynamic binding - require()](section/vue/vue-assets-images-path-dynamic-binding-require.md)
   * [Computed vs Watch vs Methods](section/vue/computed-vs-watch-vs-methods.md)
+  * [v-if & v-show 디렉티브](section/vue/v-if-and-v-show.md)
 * [JavaScript](section/javascript/README.md)
   * [Data Type Variable](section/javascript/data-type-variable/README.md)
     * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
