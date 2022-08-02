@@ -20,7 +20,7 @@
     * [후속편(after that...)](section/vue/dynamic-components-is-attribute/after-that....md)
   * [vue assets images path dynamic binding - require()](section/vue/vue-assets-images-path-dynamic-binding-require.md)
   * [Computed vs Watch vs Methods](section/vue/computed-vs-watch-vs-methods.md)
-  * [v-if & v-show 디렉티브](section/vue/v-if-and-v-show.md)
+  * [v-if VS v-show](section/vue/v-if-vs-v-show.md)
 * [JavaScript](section/javascript/README.md)
   * [Data Type Variable](section/javascript/data-type-variable/README.md)
     * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
@@ -29,7 +29,9 @@
 ***
 
 * [HTML, CSS](html-css/README.md)
-  * [CSS Simple Summary](html-css/css-simple-summary.md)
+  * [CSS Simple Summary](html-css/css-simple-summary/README.md)
+    * [word-wrap VS overflow-wrap, word-break](html-css/css-simple-summary/word-wrap-vs-overflow-wrap-word-break.md)
+  * [word-wrap VS overflow-wrap 그리고 word-break](html-css/word-wrap-vs-overflow-wrap-word-break.md)
 * [Accessibility](accessibility/README.md)
   * [Anchor 요소에서 Title 속성사용이 Accessibility(접근성)에 좋다고?](accessibility/anchor-title-accessibility.md)
 * [UXI](uxi/README.md)
