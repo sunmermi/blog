@@ -22,11 +22,13 @@
   * [vue assets images path dynamic binding - require()](section/vue/vue-assets-images-path-dynamic-binding-require.md)
   * [Computed vs Watch vs Methods](section/vue/computed-vs-watch-vs-methods.md)
   * [v-if VS v-show](section/vue/v-if-vs-v-show.md)
+  * [v-for 와 v-if 동시사용](section/vue/v-for-v-if.md)
   * [self closing element(tag)](section/vue/self-closing-element-tag.md)
 * [JavaScript](section/javascript/README.md)
   * [Data Type Variable](section/javascript/data-type-variable/README.md)
     * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
   * [try...catch...finally and throw](section/javascript/try...catch...finally-and-throw.md)
+  * [argument와 parameter 차이점](section/javascript/argument-parameter.md)
 
 ***
 
