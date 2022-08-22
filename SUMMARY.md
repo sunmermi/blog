@@ -24,6 +24,8 @@
   * [v-if VS v-show](section/vue/v-if-vs-v-show.md)
   * [v-for 와 v-if 동시사용](section/vue/v-for-v-if.md)
   * [self closing element(tag)](section/vue/self-closing-element-tag.md)
+  * [data functiuon - Function Declarations VS Arrow Function](section/vue/data-functiuon-function-declarations-vs-arrow-function.md)
+  * [invalid-first-character-of-tag-name.](section/vue/invalid-first-character-of-tag-name..md)
 * [JavaScript](section/javascript/README.md)
   * [Data Type Variable](section/javascript/data-type-variable/README.md)
     * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
