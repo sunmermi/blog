@@ -19,15 +19,25 @@ description: 'Parsing error: invalid-first-character-of-tag-name.'
 
 뚜렷한 방안이 있는것 같지 않은 느낌인데...
 
-2가지의 방법은..
+방법은..
 
 1. 린트 수정한다.
 2. `{{ 0 > count ? 0 : count }}` 와 같이 부호를 `<` 대신 `>` 를 사용한다. (빨간줄이 뜨지만 에러는 나지 않고 빌드가 잘 되었다.)
+3. `computed: {...}`를 사용할 수 있는 상황이라면 computed를 이용한다.
+
+```jsx
+<span class="count">{{ count }}</span>
+
+computed: {
+ count () {
+   return 0 > this.count ? 0 : this.count;
+ }
+}
+```
 
 &#x20;
 
 #### 참고
 
 * [구글 검색](https://www.google.com/search?q=vue+Parsing+error%3A+invalid-first-character-of-tag-name.\&newwindow=1\&sxsrf=ALiCzsb8HYgylsI3qxgLK\_c0PE3yzG8O3g%3A1660208264042\&ei=iMT0Yt\_9AfrN2roP7f-N0AM\&ved=0ahUKEwjf4dLetb75AhX6plYBHe1\_AzoQ4dUDCA4\&uact=5\&oq=vue+Parsing+error%3A+invalid-first-character-of-tag-name.\&gs\_lcp=Cgdnd3Mtd2l6EAMyBAgAEB4yBggAEB4QCDoHCAAQRxCwA0oECEEYAEoECEYYAFD7CVj7CWCrDmgCcAF4AIABeIgBeJIBAzAuMZgBAKABAqABAcgBCsABAQ\&sclient=gws-wiz)
-* [vuejs/eslint-plugin-vue/issues...](https://github.com/vuejs/eslint-plugin-vue/issues/370) &#x20;
-
+* [vuejs/eslint-plugin-vue/issues...](https://github.com/vuejs/eslint-plugin-vue/issues/370)
