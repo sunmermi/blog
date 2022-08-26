@@ -13,6 +13,7 @@
   * [state, setState](section/react/state-setstate.md)
   * [Ref](section/react/ref.md)
   * [self closing element(tag)](section/react/self-closing-element-tag.md)
+  * [Deployment](section/react/deployment.md)
 * [Vue](vue/README.md)
   * [Vue Simple Summary](vue/vue-simple-summary.md)
   * [v-bind](vue/v-bind.md)
