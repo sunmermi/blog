@@ -33,4 +33,10 @@
     > netlify deploy --prod
 * 완료되면 `Website URL: https://사이트이름.netlify.app` 최종 유알엘이 나옴 👏👏👏
 
+&#x20;&#x20;
+
+#### ✍️ 강의 따라 테스트 해본 것
+
+* https://sunmermi-habits.netlify.app
+
 &#x20;
