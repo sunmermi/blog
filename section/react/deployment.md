@@ -37,6 +37,6 @@
 
 #### ✍️ 강의 따라 테스트 해본 것
 
-* https://sunmermi-habits.netlify.app
+* [link](https://sunmermi-habits.netlify.app)
 
 &#x20;
