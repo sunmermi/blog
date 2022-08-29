@@ -1,6 +1,6 @@
 # Deployment
 
-#### Deployment
+#### create-react-app Deployment
 
 * 온라인강의를 듣다가 배포방법을 알려주길래 정리해봄.. 😊
 * [create-react-app/deployment](https://create-react-app.dev/docs/deployment)
