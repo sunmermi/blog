@@ -37,8 +37,7 @@
 ***
 
 * [HTML, CSS](html-css/README.md)
-  * [CSS Simple Summary](html-css/css-simple-summary/README.md)
-    * [word-wrap VS overflow-wrap, word-break](html-css/css-simple-summary/word-wrap-vs-overflow-wrap-word-break.md)
+  * [CSS Simple Summary](html-css/css-simple-summary.md)
   * [word-wrap VS overflow-wrap 그리고 word-break](html-css/word-wrap-vs-overflow-wrap-word-break.md)
   * [self closing element(tag)](html-css/self-closing-element-tag.md)
 * [Accessibility](accessibility/README.md)
