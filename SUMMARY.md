@@ -29,6 +29,7 @@
   * [data functiuon - Function Declarations VS Arrow Function](section/vue/data-functiuon-function-declarations-vs-arrow-function.md)
   * [invalid-first-character-of-tag-name.](section/vue/invalid-first-character-of-tag-name..md)
 * [JavaScript](section/javascript/README.md)
+  * [배열처리 some() VS every()](section/javascript/some-vs-every.md)
   * [Data Type Variable](section/javascript/data-type-variable/README.md)
     * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
   * [try...catch...finally and throw](section/javascript/try...catch...finally-and-throw.md)
