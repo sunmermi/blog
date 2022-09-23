@@ -1,42 +1,11 @@
-# Array Methods - some() VS every()
-
-#### some(), every()
-
-* 조건을 만족하는지 배열 내부를 순회하면서 검사한다.
-* 조건에 맞으면 그 즉시 Boolean 값을 반환한다. (조건에 맞으면 순회중에 값을 반환하고 종료.)
-
-&#x20;
-
-#### every()
-
-* 배열 안의 모든 요소가 조건에 모두 만족해야 True 반환
-* [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global\_Objects/Array/every)
-
-```js
-[12, 5, 8, 130, 44].every(elem => elem >= 10); // false
-[12, 54, 18, 130, 44].every(elem => elem >= 10); // true
-```
-
-&#x20;
-
-#### some()
-
-* 배열 안의 어떤 요소라도 조건에 한개라도 맞으면 True 반환
-* [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global\_Objects/Array/some)
-
-```js
-[2, 5, 8, 1, 4].some((x) => x > 10);  // false
-[12, 5, 8, 1, 4].some((x) => x > 10); // true
-```
-
-&#x20;
-
-#### 참고
+# Array Methods
 
 * [MDN Array Methods](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global\_Objects/Array)
 * Arr.map() : 콜백함수가 실행되고 새로운 배열 반환
 * Arr.filter() : 콜백함수가 실행되고 그 조건에 맞는 요소만 새로운 배열로 반환
 * Arr.reduce() : 콜백함수가 실행되고 그 누적계산값 반환
+* Arr.some() : 콜백함수가 실행되고 배열 안의 요소들이 조건에 단 한 개라도 맞으면 True 반환하고 중지
+* Arr.every() : 콜백함수가 실행되고 배열 안의 모든 요소가 조건에 만족해야 True 반환하고 중지
 * Arr.includes() : 특정 요소를 포함하고 있는지 확인후 Boolean 값 반환
 * Arr.concat() : 배열 + 인자로 전달된 배열과 합쳐서 새별열 반환
 * Arr.find() : 콜백함수를 실행하고 요소에서 조건에 맞는 첫 번째 요소 값을 반환
