@@ -1,6 +1,6 @@
-# 배열처리 some() VS every()
+# Array Methods - some() VS every()
 
-#### some() VS every()
+#### some(), every()
 
 * 조건을 만족하는지 배열 내부를 순회하면서 검사한다.
 * 조건에 맞으면 그 즉시 Boolean 값을 반환한다. (조건에 맞으면 순회중에 값을 반환하고 종료.)
