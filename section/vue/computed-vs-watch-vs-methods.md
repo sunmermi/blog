@@ -100,7 +100,7 @@ export default {
 <template>
   <div>
     <p>원본 메시지: "{{ message }}"</p>
-    <p>역순으로 표시한 메시지: "{{ reversedMessage }}"</p>
+    <p>역순으로 표시한 메시지: "{{ reversedMessage() }}"</p>
   </div>
 </template>
 
@@ -109,7 +109,6 @@ export default {
   data(){
     return {
       message: '안녕하세요',
-      reversedMessage: ''
     }
   },
   methods: {
@@ -129,11 +128,11 @@ export default {
 
 &#x20;
 
-#### computed와 methods와의 차이점\*\*
+#### computed와 methods와의 차이점
 
-* `template`에서 호출시 ()를 적지 않아야 된다.
-* `return` 값이 반드시 존재해야한다.
-* 파라미터를 받을 수 없다.
+* computed는  `template`에서 호출시 ()를 적지 않아야 된다.
+* computed는 `return` 값이 반드시 존재해야한다.
+* computed는 파라미터를 받을 수 없다.
 
 &#x20;
 
