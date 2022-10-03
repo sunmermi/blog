@@ -34,7 +34,7 @@ export default {
 뷰 코드에서\
 `props`로 받은 데이터를 사용하려면 화살표함수로 만든 `data: () => {}`는 사용하지 못한다. 이유는 `this`가 vue Instance 이기 때문!!!
 
-`data () => {}` 일반 함수는 `this`는 내부에서 부터 값을 찾아내기 때문에 사용이 가능하다.
+`data(){}` 일반 함수의 `this`는 내부에서 부터 값을 찾아내기 때문에 사용이 가능하다.
 
 ```js
 export default {
