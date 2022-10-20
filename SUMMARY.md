@@ -35,6 +35,7 @@
     * [Object Type Spread Syntax](section/javascript/data-type-variable/object-type-spread-syntax.md)
   * [try...catch...finally and throw](section/javascript/try...catch...finally-and-throw.md)
   * [argument와 parameter 차이점](section/javascript/argument-parameter.md)
+  * [Throttle, Debounce](section/javascript/throttle-debounce.md)
 
 ***
 
