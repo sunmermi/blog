@@ -17,6 +17,7 @@ description: 간단한 개념 및 관련 공식 문서 또는 참고 링크
 
 * 프레임워크는 이미 완성품으로 정해진 롤대로 사용 해야 합니다. 예로 앵귤러
 * 라이브러리는 내 입맛에 맞게 기능을 골라서 사용 할 수 있습니다. 예로 리액트
+* [framework and library에 관해](https://sunmermi.gitbook.io/blog/section/javascript/framework-and-library)
 
 
 
@@ -59,9 +60,10 @@ description: 간단한 개념 및 관련 공식 문서 또는 참고 링크
 
 &#x20;
 
-#### 리액트 훅
+#### 리액트 훅(Hooks)
 
 * 함수형 컴포넌트를 사용할 때 상태 및 라이프 사이클 관리할 수 있도록 도움.
+* [Virtual DOM에 관해](https://sunmermi.gitbook.io/blog/section/react/react-hooks)
 * [React 공식](https://ko.reactjs.org/docs/hooks-overview.html)
 * [React 공식 - hooks 도입 이유](https://ko.reactjs.org/docs/hooks-intro.html#motivation)
 * [추가해서 볼만한 블로그 포스팅](https://defineall.tistory.com/900)

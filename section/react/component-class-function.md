@@ -2,7 +2,7 @@
 description: 리액트에서 Component 를 만들 때 class와 function 차이
 ---
 
-# Component (Class, Function)
+# Class Component, Function Component
 
 #### class, function 방식의 차이
 
