@@ -6,30 +6,33 @@ description: 간단한 개념 및 관련 공식 문서 또는 참고 링크
 
 
 
-React
+#### React
 
-* [React 특징](https://app.gitbook.com/s/DPKt0tyjAJEzGVm6AJue/\~/changes/IBvQCUL2PvtBud29u37Q/section/react/react.js)
+* [React 특징](https://sunmermi.gitbook.io/blog/section/react/react.js)
+* 컴포넌트들로 만들어진 UI 라이브러리
 
-#### props
 
-* 부모로부터 전달된 프로퍼티이고 읽기 전용
-* 상황에 따라 주어진 데이터를 받고 그 데이터에 맞게 UI를 보여준다.
-* 재사용 높인다.
-* [React 공식 - props](https://ko.reactjs.org/docs/components-and-props.html#props-are-read-only)
-* [React 특징](https://app.gitbook.com/s/DPKt0tyjAJEzGVm6AJue/\~/changes/IBvQCUL2PvtBud29u37Q/section/react/react.js)
-
-&#x20;
 
 #### framework and library
 
-* 컴포넌트에서 본인이 가지고 있는 데이터
-* 상태가 변경되면 render() 함수가 재실행된다!!
-* [React 공식 - State 라이프사이클](https://ko.reactjs.org/docs/state-and-lifecycle.html)
-* [React 공식 - State](https://ko.reactjs.org/docs/react-component.html#state)
 * 프레임워크는 이미 완성품으로 정해진 롤대로 사용 해야 합니다. 예로 앵귤러
 * 라이브러리는 내 입맛에 맞게 기능을 골라서 사용 할 수 있습니다. 예로 리액트
 
+
+
+#### Components
+
+* [Components에 관해](https://sunmermi.gitbook.io/blog/section/react/components)
+* 독립적, 고립적, 재사용성, 복잡하고 긴 로직을 작게 분리
+
 &#x20;
+
+#### Virtual DOM
+
+* [Virtual DOM에 관해](https://sunmermi.gitbook.io/blog/section/react/virtual-dom)
+* 상태가 변경되면 이전에 저장된 돔트리와 비교해서 실제 업뎃되어야 하는 부분만 모아서 다시 렌더링 한다.
+
+
 
 #### props
 
