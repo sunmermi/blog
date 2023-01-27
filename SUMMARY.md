@@ -49,6 +49,7 @@
   * [CSS Simple Summary](html-css/css-simple-summary.md)
   * [word-wrap VS overflow-wrap 그리고 word-break](html-css/word-wrap-vs-overflow-wrap-word-break.md)
   * [self closing element(tag)](html-css/self-closing-element-tag.md)
+  * [position: fixed 관련 특징 및 이슈](html-css/position-fixed.md)
   * [BFC 블록 포멧팅 컨텍스트](html-css/bfc.md)
 * [Accessibility](accessibility/README.md)
   * [Anchor 요소에서 Title 속성사용이 Accessibility(접근성)에 좋다고?](accessibility/anchor-title-accessibility.md)
