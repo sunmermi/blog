@@ -1,10 +1,10 @@
 ---
 description: 안녕, Code로 화면을 그리는 UI 개발자 윤선미 입니다.
-cover: .gitbook/assets/562680_359130210822976_795532937_n.jpeg
-coverY: -73.09644670050761
+cover: .gitbook/assets/KakaoTalk_Photo_2023-01-28-00-12-59.jpeg
+coverY: 69
 ---
 
-# Welcome!
+# 🥳 Welcome!
 
 ## Code로 화면을 그리는 UI 개발자 입니다.&#x20;
 
